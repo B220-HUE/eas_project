@@ -37,6 +37,10 @@ A web-based Employee Appraisal System developed for **Maseno Mission Hospital** 
 ### 👤 Employee Dashboard
 
 ![Employee Dashboard](https://github.com/B220-HUE/eas_project/blob/master/employee%20dashboard.png?raw=true)
+### 💬 Employee Feedback
+
+![Employee Feedback](https://github.com/B220-HUE/eas_project/blob/master/employee%20feedback.png?raw=true)
+
 
 
 

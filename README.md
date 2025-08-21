@@ -16,7 +16,12 @@ A web-based Employee Appraisal System developed for **Maseno Mission Hospital** 
 - **Backend**: PHP (Laravel framework)  
 - **Frontend**: HTML, CSS, JavaScript  
 - **Database**: MySQL  
-- **Version Control**: Git & GitHub  
+- **Version Control**: Git & GitHub
+- ## 📸 Screenshots
+### 🔐 Login Screen
+
+![Login Screen](https://github.com/B220-HUE/eas_project/blob/master/login%20screen.PNG?raw=true)
+
 
 ## 📦 Installation
 

@@ -48,6 +48,12 @@ A web-based Employee Appraisal System developed for **Maseno Mission Hospital** 
 
 You can download the full SQL schema here:  
 [📥 eas_database.sql](https://github.com/B220-HUE/eas_project/blob/master/eas_database.sql?raw=true)
+## Database Setup
+1. Open phpMyAdmin
+2. Create a new database: `employee_appraisal_system`
+3. Import the file from `/database/employee_appraisal_system.sql`
+4. Update your `config.php` (or connection file) with your MySQL username and password
+
 
 
 

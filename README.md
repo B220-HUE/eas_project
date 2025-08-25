@@ -44,6 +44,11 @@ A web-based Employee Appraisal System developed for **Maseno Mission Hospital** 
 ## 🗄️ Database Structure
 
 ![Database Structure](https://github.com/B220-HUE/eas_project/blob/master/database_structure.png?raw=true)
+## 🗄️ Database Schema
+
+You can download the full SQL schema here:  
+[📥 eas_database.sql](https://github.com/B220-HUE/eas_project/blob/master/eas_database.sql?raw=true)
+
 
 
 
